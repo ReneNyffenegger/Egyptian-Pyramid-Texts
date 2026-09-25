@@ -1,0 +1,3 @@
+125a	Shu is well (green); N. has not taken his food (meal).
+125b	N. is well (green); Shu has not taken his food (meal).
+125c	Let the eastern messengers repeat (double) thy bread.

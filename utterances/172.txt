@@ -1,0 +1,4 @@
+101a	To say four times: An offering of a meal to N.
+101b	To say: May Geb make an offering to N.
+101c	I give to thee every festal offering, every oblation of food and drink, which thou canst desire,
+101d	wherewith thou shalt be happy with the god for ever and ever.
